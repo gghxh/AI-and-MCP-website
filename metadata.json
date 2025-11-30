@@ -1,0 +1,5 @@
+{
+  "name": "FastAdmin AI Plugin Mock",
+  "description": "A React simulation of a FastAdmin plugin featuring AI Chat with multi-model support, file uploads, and MCP management.",
+  "requestFramePermissions": []
+}
